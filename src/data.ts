@@ -32,14 +32,14 @@ export const experience = [
   { org: 'CSI Chapter, VIT-AP', role: 'Member', when: '2023 – 2025', points: ['Participated in technical activities and club events'], stack: [] }
 ]
 export const certs = [
-  { t: 'Oracle Cloud Infrastructure 2025 Certified Generative AI Professional', d: 'Expires Oct 31, 2027', img: 'https://images.credly.com/images/5b84c46d-d9d6-47ae-835f-63ea0c813cdc/OCI25GAIOCP_cached_image_20260111-31-eoq72.png', i: 'Oracle' },
-  { t: 'Agentic AI Certified Foundations Associate', d: 'Expires Aug 21, 2028', img: 'https://images.credly.com/images/546e70ce-4b7d-450b-8c32-8e331f8ec1bb/AAI26OFA_cached_image_20260821-32-s93u3e.png', i: 'Oracle' },
-  { t: 'Oracle Data Platform 2025 Certified Foundations Associate', d: 'Expires Oct 26, 2027', img: 'https://images.credly.com/images/feb04e3a-1b03-4f21-a916-8a3ef7c13383/OCI25DCFAV2_cached_image_20260111-30-8kyac4.png', i: 'Oracle' },
-  { t: 'Oracle Cloud Infrastructure 2025 Certified Foundations Associate', d: 'Expires Oct 25, 2027', img: 'https://images.credly.com/images/6a33a9be-e915-4d84-bc92-3bdeea51ad02/OCI25FNDCFAV1_cached_image_20260111-30-ghxb0j.png', i: 'Oracle' },
-  { t: 'Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate', d: 'Expires Oct 13, 2027', img: 'https://images.credly.com/images/a549951b-c154-446d-8dfc-81df48070270/OCI25AICFAV1_cached_image_20260111-33-fye4a3.png', i: 'Oracle' },
-  { t: 'The Complete Full-Stack Web Development Bootcamp', d: 'Dec 2025 (listed on resume)', i: 'Course certificate' }
+  { t: 'Oracle Cloud Infrastructure 2025 Certified Generative AI Professional', d: 'Expires Oct 31, 2027', img: 'https://images.credly.com/images/5b84c46d-d9d6-47ae-835f-63ea0c813cdc/OCI25GAIOCP_cached_image_20260111-31-eoq72.png', i: 'Oracle', url: 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=2C2123677F33269B54F5A2A99933F89A659D05BE42785CA064C0C81567F3C33B' },
+  { t: 'Agentic AI Certified Foundations Associate', d: 'Expires Aug 21, 2028', img: 'https://images.credly.com/images/546e70ce-4b7d-450b-8c32-8e331f8ec1bb/AAI26OFA_cached_image_20260821-32-s93u3e.png', i: 'Oracle', url: 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=D2B6C1B9649E9883916D01772C510586D51B9B3548150393BC786B5AB22F636C' },
+  { t: 'Oracle Data Platform 2025 Certified Foundations Associate', d: 'Expires Oct 26, 2027', img: 'https://images.credly.com/images/feb04e3a-1b03-4f21-a916-8a3ef7c13383/OCI25DCFAV2_cached_image_20260111-30-8kyac4.png', i: 'Oracle', url: 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=76A3701DE4867E6CF80122DC30F2C8106E0014164A2DE68FEA782C2180FF5521' },
+  { t: 'Oracle Cloud Infrastructure 2025 Certified Foundations Associate', d: 'Expires Oct 25, 2027', img: 'https://images.credly.com/images/6a33a9be-e915-4d84-bc92-3bdeea51ad02/OCI25FNDCFAV1_cached_image_20260111-30-ghxb0j.png', i: 'Oracle', url: 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=35FECC8CDAF5585BD451D5A44956D6EC24111962E4E17E4024CB814AD151189F' },
+  { t: 'Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate', d: 'Expires Oct 13, 2027', img: 'https://images.credly.com/images/a549951b-c154-446d-8dfc-81df48070270/OCI25AICFAV1_cached_image_20260111-33-fye4a3.png', i: 'Oracle', url: 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=2D9025B13EB8B0667998BD57847339133972FDBA892DA6EE42BDBE3FCC8063E9' },
+  { t: 'The Complete Full-Stack Web Development Bootcamp', d: 'Dec 2025', i: 'Udemy', url: 'https://www.udemy.com/certificate/UC-e2d54bf4-2278-4ba9-a1a3-e310597c538f/' }
 ]
-export const development = { t: 'McKinsey.org Forward Program', d: 'Issued Jun 23, 2026', img: 'https://images.credly.com/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob', i: 'McKinsey.org' }
+export const development = { t: 'McKinsey.org Forward Program', d: 'Issued Jun 23, 2026', img: 'https://images.credly.com/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob', i: 'McKinsey.org', url: 'https://www.credly.com/badges/85e5b6b1-6ab9-4008-982a-91595dcfb393/linked_in_profile' }
 export const achievements = [
   { t: 'Third Place', s: 'HackZilla Hackathon', n: '' },
   { t: 'SIH 2025', s: 'Participant', n: 'Contributed to project ideation and problem-solving.' },
